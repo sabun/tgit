@@ -30,4 +30,6 @@
 	echo "sabun 10 nempel 9";
 	
 	echo "sabun 12";
+	
+	echo "lvl 8 (back again), bawah sabun 12";
 ?>

@@ -1,9 +1,9 @@
 <?php
-	echo "sabun 1";
+	echo "sabun 1 updated";
 	
 	echo "sabun 2";
 	
-	echo "sabun 3";
+	echo "sabun 3 updated";
 
 	echo "sabun 4";
 

@@ -7,10 +7,16 @@
 
 	echo "sabun 4";
 
-	echo "lvz 1"
+	echo "lvz 1";
 	
-	echo "sabun 5 nempel 6";
-	echo "sabun 6 nempel 5";
+	echo "sabun 5";
 	
-	echo "lvz 2"
+	echo "sabun 6";
+	
+	echo "lvz 2";
+	
+	echo "lvz 3";
+	
+	echo "lvz 4 nempel 5";
+	echo "lvz 5 nempel 4";
 ?>

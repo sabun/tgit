@@ -22,7 +22,6 @@
 	
 	echo "lvz 6";
 	
-	echo "lvz 7";
 	
 	echo "sabun 7";
 	
@@ -32,4 +31,6 @@
 	echo "sabun 12";
 	
 	echo "lvl 8 (back again), bawah sabun 12";
+
+	echo "lvz 7 pindah kepaling bawah";
 ?>

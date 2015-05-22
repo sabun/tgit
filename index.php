@@ -26,8 +26,8 @@
 	
 	echo "sabun 7";
 	
-	echo "sabun 8";
-	
 	echo "sabun 9 nempel 10";
-	echo "sabun 10 nempel 11";
+	echo "sabun 10 nempel 9";
+	
+	echo "sabun 12";
 ?>

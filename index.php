@@ -13,4 +13,8 @@
 	echo "sabun 6 nempel 5";
 	
 	echo "lvz 2"
+
+	echo "sabun 7";
+	
+	echo "sabun 8";
 ?>

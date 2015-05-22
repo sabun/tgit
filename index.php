@@ -19,4 +19,8 @@
 	
 	echo "lvz 4 nempel 5";
 	echo "lvz 5 nempel 4";
+	
+	echo "lvz 6";
+	
+	echo "lvz 7";
 ?>

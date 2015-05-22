@@ -22,7 +22,7 @@
 	
 	echo "lvz 6";
 	
-	echo "lvz 7";
+	echo "lvz 7 updated";
 	
 	echo "sabun 7";
 	
